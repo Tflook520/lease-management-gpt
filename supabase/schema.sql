@@ -1,0 +1,2 @@
+-- Tables assumed to be pre-created in DB.
+-- Document, PaymentSchedule, ASC842Schedules now supported.
